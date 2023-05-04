@@ -195,7 +195,7 @@ a, a:hover {
   }
 }
 .profile-card-social__item.facebook {
-  background: linear-gradient(45deg, #3b5998, #0078d7);
+  background: linear-gradient(45deg, #0A66C2, #9EA8B1);
   box-shadow: 0px 4px 30px rgba(43, 98, 169, 0.5);
 }
 .profile-card-social__item.twitter {
@@ -207,7 +207,7 @@ a, a:hover {
   box-shadow: 0px 4px 30px rgba(120, 64, 190, 0.6);
 }
 .profile-card-social__item.behance {
-  background: linear-gradient(45deg, #A0B1D5, #3B5998);
+  background: linear-gradient(45deg, #3B5998, #919FBF);
   box-shadow: 0px 4px 30px rgba(27, 86, 231, 0.7);
 }
 .profile-card-social__item.github {
@@ -215,11 +215,11 @@ a, a:hover {
   box-shadow: 0px 4px 30px rgba(63, 65, 67, 0.6);
 }
 .profile-card-social__item.codepen {
-  background: linear-gradient(45deg, #A9FAC5, #1DB954);
+  background: linear-gradient(45deg, #1DB954, #90D6A9);
   box-shadow: 0px 4px 30px rgba(55, 75, 90, 0.6);
 }
 .profile-card-social__item.link {
-  background: linear-gradient(45deg, #CF8987, #C4302B);
+  background: linear-gradient(45deg, #C4302B, #D58380);
   box-shadow: 0px 4px 30px rgba(223, 45, 70, 0.6);
 }
 .profile-card-social .icon-font {
